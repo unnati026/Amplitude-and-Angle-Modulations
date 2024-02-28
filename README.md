@@ -1,6 +1,6 @@
 # Amplitude and Angle Modulations Project
 
-This repository contains MATLAB implementations of amplitude modulation (AM), coherent and incoherent amplitude demodulation, frequency modulation (FM), frequency demodulation, as well as phase modulation and demodulation using FM.
+This repository contains MATLAB implementations of amplitude modulation (AM), coherent and incoherent amplitude demodulation, frequency modulation (FM), frequency demodulation, as well as phase modulation and demodulation using FM. This was done as a part of the bonus assignment for the course EC31203 (Communications 1).
 
 ## Project Description
 
@@ -30,5 +30,5 @@ The project addresses the following questions:
 
 ## Note
 
-- Replace the `audio_signal.mat` file with your desired audio input.
+- Replace the `videoplayback.wav` file with your desired audio input.
 - Adjust parameters as needed for different modulation indices, center frequencies, etc.
