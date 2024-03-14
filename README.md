@@ -28,7 +28,7 @@ The project addresses the following questions:
    
 6. Use the FM modulator and demodulator designed in previous steps to perform phase modulation and demodulation respectively. Plot the outputs of modulated and demodulated signals in both time and frequency domains.
 
-## Note
+## Customisations
 
 - Replace the `videoplayback.wav` file with your desired audio input.
 - Adjust parameters as needed for different modulation indices, center frequencies, etc.
